@@ -109,3 +109,19 @@ import math
 
 # 12 % 10 # 2
 # 1 % 10 # 1
+# a = 12.12345
+# c = round(a,2) # 12.12
+# print(c)
+
+# import math
+# from math import sqrt
+
+# print(sqrt(4))
+
+# a = 'Hello'
+# b = 'How'
+# c = 'are you?'
+# # Hello , How are you?
+# # print(a,',',b,c)
+# print(type(1))
+# print(type('1'))
