@@ -94,7 +94,52 @@ a = 'HelloWorld!' #step = 2
 # result = a.split()
 # print(result)
 
-a = 'Hello'
+# a = 'Hello'
 
-result = '\\'.join(a)
-print(result)
+# result = '\\'.join(a)
+# print(result)
+
+# a = '\\\\'
+# print(a)
+
+
+# a = '_+_hel_+lo_+_++'
+# print(a.strip('_+'))
+
+# a = 'Hello'
+# searched_index = a.find('e')
+# searched_index = a.index('e')
+# searched_index = a.index('b')
+# searched_index = a.find('b')
+
+# print(searched_index)
+
+# a = 'Hello'
+# print(a.find('l'))
+# print(a.rfind('l'))
+
+# a = 'Python'
+
+# replaced_a = a.replace('th','c')
+# print(replaced_a)
+
+# a = 'python'
+# print(len(a))
+
+# a = 'hello'
+
+# count_of_l = a.count('l')
+# print(count_of_l)
+
+a = 'hello'
+# print(a.isalpha())
+# a = '12456'
+# print(a.isdigit())
+# a = 'hello123_'
+# print(a.isalnum())
+
+# a = 'Hello'
+# print(a.islower())
+
+# a = 'hELLO'
+# print(a.isupper())
