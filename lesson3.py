@@ -76,4 +76,30 @@ B = [40, 50, 60, 70]
 # print(A)
 # print(B)
 
-A = [1, 2, 3, 4] # Palindrome
+# A = [1, 2, 2, 4] # Palindrome
+
+# print(A)
+# a = 5
+
+
+# a = '1,2,3,4,5'.split(',')
+# print(a)
+
+# A = ['1', '2', '3', '4', '5'] # list()
+
+# print(list(map(int, A)))
+
+# A = list(map(int, input().split(','))) # 1.2.3.4.5.6
+# print(A)
+
+'Hello World'
+'olleH'
+'dlroW'
+'olleH_dlroW'
+
+# a[0] # = 'Hello'
+# 'Hello'
+
+# a[0] = 'Hello'
+
+# a[0][::-1]
